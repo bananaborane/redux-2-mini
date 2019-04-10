@@ -25,17 +25,17 @@ body {
   height: 90%;
   width: 90%;
   box-shadow: 2px 2px 5px #3731D7;
-  animation: spin 2s linear infinite;
+  animation: spin 1s linear infinite reverse;
 }
 .item2 {
   height: 80%;
   width: 80%;
   box-shadow: -2px 2px 5px #011275;
-  animation: spin 1s linear infinite reverse;
+  animation: spin 1s linear infinite;
 }
 .item3 {
   height: 70%;
   width: 70%;
   box-shadow: 2px -2px 5px #4965F3;
-  animation: spin 4s linear infinite;
+  animation: spin 1s linear infinite reverse;
 }
